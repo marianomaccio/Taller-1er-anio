@@ -1,0 +1,54 @@
+{
+  "serie": "Dragon Ball",
+  "personaje": "Goku",
+  "active": true,
+  "transformaciones": [
+
+
+      {
+        "nombre": "Super Saiyajin ",
+        "descripcion": "Solo los saiyajin con un gran poder interior y entrenamiento pueden lograr esta transformacion.",
+        "img": "img/ssj1.png"
+          
+      },
+    
+    
+      {
+        "nombre": "Super Saiyajin fase 2",
+        "descripcion": "Se diferencia por su incremento de poder y la en apariencia, por los destellos electricos provenientes del aumento de poder.",
+        "img": "img/ssj2.png"
+      },
+    
+    
+      {
+        "nombre":"Super Saiyajin fase 3",
+        "descripcion":"Una de las transformaciones mas fuertes de los Super Saiyajin es muy dificil de mantener por largos periodos de tiempo.",
+        "img":"img/ssj3.png"
+      },
+    
+    
+      {
+        "nombre":"Super Sayaijin Dios",
+        "descripcion":" Al transformarse supera el poder de las otras fases y su pelo se mantiene con la misma forma pero de un color mas rojizo. De la misma forma, su cuerpo luce mas delgado y sus ojos son de color rojo.",
+        "img":"img/SuperSayaijinDios.png"
+      },
+
+
+    {
+      "nombre": "Dios Super Saiyajin",
+      "descripcion": "Superando los poderes del Super Saiyajin Dios en esta ocasion su pelo tiene un color azul, mismo color que toma su ki.",
+      "img": "img/DiosSuperSaiyajiin.png"
+    },
+    
+    
+      {
+        "nombre": "Ultra Instinct",
+        "descripcion": "Esta nueva fase de poder que es por mucho la mas fuerte que ha mostrado Goku a lo largo de todo el anime, le cambia el color del cabello a uno de tono gris plateado, al igual que sus ojos y cejas.",
+        "img": "img/UltraInstinct.png"
+      }
+
+
+    
+  ]
+
+}
