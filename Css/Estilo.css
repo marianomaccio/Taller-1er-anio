@@ -1,0 +1,51 @@
+body {
+    width: 1280px;
+    margin: 0 auto;
+    padding: 0;
+    background-image: url(../img/16_-_DRAGON_BALL_-_60_X_34_cm.jpg);
+    background-size: 100%;
+}
+
+h1, h2 {
+    font-family: 'Dragon Ball', cursive;
+    color: black;
+}
+
+h1 {
+    font-size: 5rem;
+    text-align: center;
+}
+
+header p {
+    font-family: 'Dragon Ball', cursive;
+    color: yellow;
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+section article {
+    font-size: 1.5rem;
+    width: 30%;
+    float: left;
+    color: white;
+    font-weight: 900;
+}
+
+
+h2 {
+    font-size: 2.4rem;
+    letter-spacing: -1px;
+    margin-bottom: 10px;
+}
+
+article {
+    padding: 25px 1;
+    margin-right: 1vh;
+    margin-bottom: 1vh;
+}
+
+img {
+    display: flex;
+    margin: auto !important;
+}
